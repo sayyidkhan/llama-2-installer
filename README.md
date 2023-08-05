@@ -22,7 +22,7 @@
 4. it may take up a few hours to a day for it to be approved even after receiving the email.
 5. the links are at the bottom of the page.
 
-## approach-3 (unoffical model)
+### approach-3 (unoffical model)
 1. open your browser and visit this url: `https://huggingface.co/TheBloke/`
 2. once u identify the model u want, u can specify it in the download section in the screenshot below.
 <img width="1787" alt="Screenshot 2023-08-05 at 6 40 39 PM" src="https://github.com/sayyidkhan/llama-2-installer/assets/22993048/3824142c-3235-4864-bcaf-501a6e44eb85">
