@@ -19,7 +19,10 @@
 4. it may take up a few hours to a day for it to be approved even after receiving the email.
 5. the links are at the bottom of the page.
 
-### online free models
+## how to download the GUI to interface with the llama-2 models
+1. follow the installation guide from this github page: `https://github.com/oobabooga/text-generation-webui`
+
+## online free models
 1. llama2 chatbot - `llama2.ai`
 2. hugging face llama2 - `https://huggingface.co/chat/`
 3. perplexity llama2 - `https://labs.perplexity.ai/`
