@@ -1,7 +1,7 @@
 # llama-2-installer
 
 ## how to get llama-2 request to use it 
-1. go to [https://ai.meta.com/llama/] to request access to download llama-2.
+1. go to https://ai.meta.com/llama/ to request access to download llama-2.
 2. you will receive an email.
 
 ## how to download the llama-2 models
